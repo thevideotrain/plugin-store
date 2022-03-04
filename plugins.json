@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Plugin Template",
+		"description": "This a basic Plugin Template. You can use it to test Plugin functionality: When activated it should log a message in the Dev Console on the Homepage",
+		"repo": "thevideotrain/plugin-template"
+	}
+]
